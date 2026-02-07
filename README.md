@@ -30,7 +30,7 @@ For getting the key you need to join the [discord server](https://discord.gg/Pmn
 - Draw FOV
 
 ### Visuals
-- ESP: Box, Skeleton, Name, Health, Distance, Head Dot, Chams
+- ESP: Box, Skeleton, Name, Health, Distance, Head Dot, Charms
 - World: Flash/Smoke Remover
 - Third Person, Speed Graph
 
