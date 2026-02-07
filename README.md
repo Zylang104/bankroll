@@ -7,7 +7,7 @@ Status: Early Access (expect bugs).
 ## Usage
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zylang104/bankroll/main/banroll.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zylang104/bankroll/main/bankroll.lua"))()
 ```
 
 1. Inject the script in your executor.
