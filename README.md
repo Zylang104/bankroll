@@ -3,7 +3,7 @@
 <img width="1437" height="808" alt="bankroll" src="https://github.com/user-attachments/assets/e41f4aca-c7c3-4f84-ace1-8afb72429704" />
 
 
-Bankroll is a script for Blox Strike. It features a Beutiful UI, legitbot, visuals, and skin changers.
+Bankroll is a script for Blox Strike. It features a Beautiful UI, legitbot, visuals, and skin changers.
 
 Status: Early Access (expect bugs).
 
